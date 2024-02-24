@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="logo_description">Android\'s pet head with the word \'android\' underneath</string>
+    <string name="full_name">Juan Pablo von Landwüst G.</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_description">Phone icon</string>
+    <string name="phone">+591 65175897</string>
+    <string name="share">\@JuanPavon</string>
+    <string name="email">jp.von.landwust@gmail.com</string>
+    <string name="share_description">Share icon</string>
+    <string name="email_description">Email icon</string>
+</resources>
