@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="soda_stereo">Soda Stereo</string>
+    <string name="nada_personal">Nada Personal</string>
+    <string name="signos">Signos</string>
+    <string name="ruido_blanco">Ruido Blanco</string>
+    <string name="doble_vida">Doble Vida</string>
+    <string name="languis">Languis</string>
+    <string name="description_album_cover">Cover of the album \'%s\'</string>
+    <string name="artist">Soda Stereo (%d)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="cancion_animal">Canción Animal</string>
+    <string name="rex_mix">Rex Mix</string>
+    <string name="dynamo">Dynamo</string>
+    <string name="zona_de_promesas">Zona De Promesas</string>
+    <string name="suenno_stereo">Sueño Stereo</string>
+    <string name="comfort_y_musica_para_volar">Comfort Y Música Para Volar</string>
+    <string name="el_ultimo_concierto_a">El Último Concierto A</string>
+    <string name="el_ultimo_concierto_b">El Último Concierto B</string>
+    <string name="gira_me_veras_volver_1">Gira Me Verás Volver 1</string>
+    <string name="gira_me_veras_volver_2">Gira Me Verás Volver 2</string>
+    <string name="sep7imo_dia">Sép7imo Día</string>
+</resources>

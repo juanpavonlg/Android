@@ -15,6 +15,10 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Call
+import androidx.compose.material.icons.filled.Email
+import androidx.compose.material.icons.filled.Phone
+import androidx.compose.material.icons.filled.Share
 import androidx.compose.material.icons.rounded.Email
 import androidx.compose.material.icons.rounded.Phone
 import androidx.compose.material.icons.rounded.Share
@@ -94,15 +98,15 @@ fun LogoNameTitle(modifier: Modifier = Modifier) {
 fun ContactInformation() {
     Column {
         InformationRow(
-            imageVector = Icons.Rounded.Phone,
+            imageVector = Icons.Default.Phone,
             contentDescription = stringResource(id = R.string.phone_description),
             information = stringResource(id = R.string.phone))
         InformationRow(
-            imageVector = Icons.Rounded.Share,
+            imageVector = Icons.Default.Share,
             contentDescription = stringResource(id = R.string.share_description),
             information = stringResource(id = R.string.share))
         InformationRow(
-            imageVector = Icons.Rounded.Email,
+            imageVector = Icons.Default.Email,
             contentDescription = stringResource(id = R.string.email_description),
             information = stringResource(id = R.string.email))
     }
@@ -135,7 +139,6 @@ fun InformationRow(
         }
     }
 }
-
 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
