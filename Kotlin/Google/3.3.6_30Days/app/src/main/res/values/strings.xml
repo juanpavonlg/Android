@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">30 Days Of Patterns</string>
+    <string name="day">Day %d</string>
+    <string name="day1_title">Factory Pattern</string>
+    <string name="day1_description">In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.</string>
+    <string name="day2_title">Abstract Factory Pattern</string>
+    <string name="day2_description">Abstract Factory patterns work around a super-factory which creates other factories. This factory is also called as factory of factories. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.\n\nIn Abstract Factory pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes. Each generated factory can give the objects as per the Factory pattern.</string>
+    <string name="day3_title">Singleton Pattern</string>
+    <string name="day3_description">This pattern involves a single class which is responsible to create an object while making sure that only single object gets created. This class provides a way to access its only object which can be accessed directly without need to instantiate the object of the class.</string>
+    <string name="day1_content_description">Factory pattern UML diagram</string>
+    <string name="day2_content_description">Abstract factory pattern UML diagram</string>
+    <string name="day3_content_description">Singleton pattern UML diagram</string>
+</resources>
